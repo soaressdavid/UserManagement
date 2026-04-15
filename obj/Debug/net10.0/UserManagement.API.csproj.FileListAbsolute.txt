@@ -1,8 +1,0 @@
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.csproj.AssemblyReference.cache
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.AssemblyInfoInputs.cache
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.AssemblyInfo.cs
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.csproj.CoreCompileInputs.cache
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Cursos\BACK-END\Csharp\UserManagementv5\UserManagement.API\obj\Debug\net10.0\UserManagement.API.MvcApplicationPartsAssemblyInfo.cache
